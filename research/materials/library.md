@@ -16,3 +16,15 @@ Working inventory of source graphics and technical sections used by The Window B
 - Source format: SVG
 - Notes: user-confirmed dimensions and function; do not treat as standard window sash section
 
+
+## ALUPROF MB-86N SI
+
+### K528611 + K528712
+- Type: aluminium window frame + sash section
+- Frame face width: 58.5 mm
+- Sash face width: 53.5 mm
+- Overall construction depth: 77 mm
+- Source format: SVG
+- Source file: `mb-86n-si-oscieznica-k528611-skrzydlo-okienne-k528712w.svg`
+- Notes: user-confirmed profile references and dimensions; suitable as a real aluminium system section for future technical diagrams and comparisons
+
