@@ -28,3 +28,15 @@ Working inventory of source graphics and technical sections used by The Window B
 - Source file: `mb-86n-si-oscieznica-k528611-skrzydlo-okienne-k528712w.svg`
 - Notes: user-confirmed profile references and dimensions; suitable as a real aluminium system section for future technical diagrams and comparisons
 
+
+## ALUPROF MB-77 HS
+
+### Scheme A — horizontal section
+- Type: aluminium lift-and-slide (HS) system, horizontal section
+- Sliding frame face width: 48 mm
+- Sliding sash face width: 105.5 mm
+- Overall construction depth: 174 mm
+- Source format: SVG
+- Source file: `a227-mb-77-hs-schemat-a-2w.svg`
+- Notes: user-confirmed system identification and dimensions; strong candidate for Home-page large-opening / lift-and-slide technical visual
+
